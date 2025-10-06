@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey there! I'm Matheus  
 
-<!--
-**matheusramos123/matheusramos123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about technology and constantly exploring new ways to turn ideas into code.  
+Currently diving deep into **Object-Oriented Programming (OOP)**, **Python**, and **MySQL**, always aiming to learn something new with every project I create.  
 
-Here are some ideas to get you started:
+I enjoy building practical apps — from small systems like a movie rental or a simple bank chat to anything that challenges me to think like a real developer.  
+For me, learning to code is a journey — every error is just another step toward improvement.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Goal:** grow as a developer, collaborate on real-world projects, and write clean, secure, and creative code.  
+
+ 
+
+---
+
+## 🇧🇷 Olá! Eu sou o Matheus  
+
+💻 Apaixonado por tecnologia e sempre explorando novas formas de transformar ideias em código.  
+Atualmente, estou me aprofundando em **Programação Orientada a Objetos (POO)**, **Python** e **MySQL**, buscando aprender algo novo a cada projeto que crio.  
+
+Gosto de desenvolver aplicações práticas — desde sistemas simples como uma locadora ou um chat bancário até qualquer coisa que me desafie a pensar como um verdadeiro desenvolvedor.  
+Acredito que aprender a programar é uma jornada — cada erro é só mais um passo rumo à evolução.  
+
+🚀 **Objetivo:** crescer como desenvolvedor, colaborar em projetos reais e escrever códigos cada vez mais limpos, seguros e criativos.  
+
+ 
+
+---
+
+## 🌐 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ramos-33aab4381)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusramosr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.rrramos@gmail.com)
