@@ -38,6 +38,8 @@ cada projeto é aprendizado, cada erro é progresso, cada linha de código é ca
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://icon-sets.iconify.design/devicon/fastapi.svg" width="50" height="50"/>
+
 </div>
 
 
