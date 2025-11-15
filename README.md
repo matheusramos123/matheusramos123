@@ -1,12 +1,15 @@
 # 👋 Hey there! I'm Matheus  
 
-💻 Passionate about technology and constantly exploring new ways to turn ideas into code.  
-Currently diving deep into **Object-Oriented Programming (OOP)**, **Python**, and **MySQL**, always aiming to learn something new with every project I create.  
+💻 Student and software development intern, passionate about technology and the world of programming. Always seeking to learn something new and transform knowledge into practice.
 
-I enjoy building practical apps — from small systems like a movie rental or a simple bank chat to anything that challenges me to think like a real developer.  
-For me, learning to code is a journey — every error is just another step toward improvement.  
+Currently, I am deepening my studies in Back-end development with Python, FastAPI, OOP, and integration with databases such as MySQL and PostgreSQL using ORM. I already develop RESTful APIs with HTTP operations (GET, POST, PUT, DELETE) and I am evolving in best practices, authentication, and security.
 
-🚀 **Goal:** grow as a developer, collaborate on real-world projects, and write clean, secure, and creative code.  
+I enjoy creating functional applications that solve real problems — registration systems, rental systems, banking APIs, and any project that challenges me to think like a true developer.
+
+💡 I am at the beginning of the journey, but always with a mindset of evolution:
+each project is learning, each error is progress, each line of code is a path forward.
+
+🚀 Objective: grow professionally, contribute to real-world projects, and write cleaner, safer, and more efficient code every day.
 
  
 
@@ -14,13 +17,16 @@ For me, learning to code is a journey — every error is just another step towar
 
 ## 🇧🇷 Olá! Eu sou o Matheus  
 
-💻 Apaixonado por tecnologia e sempre explorando novas formas de transformar ideias em código.  
-Atualmente, estou me aprofundando em **Programação Orientada a Objetos (POO)**, **Python** e **MySQL**, buscando aprender algo novo a cada projeto que crio.  
+💻 Estudante e estagiário na área de desenvolvimento, apaixonado por tecnologia e pelo universo da programação. Sempre buscando aprender algo novo e transformar conhecimento em prática.
 
-Gosto de desenvolver aplicações práticas — desde sistemas simples como uma locadora ou um chat bancário até qualquer coisa que me desafie a pensar como um verdadeiro desenvolvedor.  
-Acredito que aprender a programar é uma jornada — cada erro é só mais um passo rumo à evolução.  
+Atualmente, estou me aprofundando no desenvolvimento Back-end com Python, FastAPI, POO e integração com bancos de dados como MySQL e PostgreSQL usando ORM. Já desenvolvo APIs RESTful com operações HTTP (GET, POST, PUT, DELETE) e estou evoluindo em boas práticas, autenticação e segurança.
 
-🚀 **Objetivo:** crescer como desenvolvedor, colaborar em projetos reais e escrever códigos cada vez mais limpos, seguros e criativos.  
+Gosto de criar aplicações funcionais que resolvem problemas reais — sistemas de cadastro, locadora, API bancária e qualquer projeto que me desafie a pensar como um desenvolvedor de verdade.
+
+💡 Estou no início da jornada, mas sempre com a mentalidade de evolução:
+cada projeto é aprendizado, cada erro é progresso, cada linha de código é caminho.
+
+🚀 Objetivo: crescer profissionalmente, contribuir com projetos reais e escrever códigos mais limpos, seguros e eficientes a cada dia.
 
 ---
 
