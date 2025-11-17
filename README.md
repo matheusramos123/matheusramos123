@@ -47,8 +47,9 @@ cada projeto é aprendizado, cada erro é progresso, cada linha de código é ca
 
 </div>
 
-## 📊 Meus GitHub Stats
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusramos123&show_icons=true&theme=radical)
+## 🏆 Linguagens mais usadas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusramos123&layout=compact&theme=radical)## 🏆 Linguagens mais usadas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusramos123&layout=compact&theme=radical)
 
 
  
