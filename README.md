@@ -47,7 +47,7 @@ cada projeto é aprendizado, cada erro é progresso, cada linha de código é ca
 
 </div>
 
-## 🏆 Linguagens mais usadas
+## 🏆 Most used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusramos123&layout=compact&theme=radical)
 
 
